@@ -67,6 +67,7 @@ align-items: center;
 .top-icon {
 font-size: 2em;
 padding: 0 0.5em;
+cursor: pointer;
 }
 
 .mic-icon {
@@ -85,7 +86,7 @@ align-items: center;
 display: flex;
 flex-wrap: wrap;
 justify-content: space-between;
-margin: 10em;
+margin: 5em;
 }
 
 .thumb{
@@ -101,7 +102,8 @@ margin: 10em;
 }
 
 .video{
-    margin: 2em,
+    margin: 3em;
+    cursor: pointer;
 }
 
 .title{
